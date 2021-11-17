@@ -5,4 +5,4 @@ paper:
 
 CAUSAL DISCOVERY WITH REINFORCEMENT LEARNING
 
-Ordering-Based Causal Discovery with Reinforcement Learning Xiaoqiang
+Ordering-Based Causal Discovery with Reinforcement Learning
